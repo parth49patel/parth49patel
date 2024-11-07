@@ -23,7 +23,7 @@ I’m an iOS developer and passionate about creating innovative, high-quality ap
   
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=parth49patel&theme=swift&hide_border=false&include_all_commits=false&count_private=false"><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth49patel&theme=swift&hide_border=false"><br/>
+[![GitHub Streak](https://github-readme-streak-stats-eosin.vercel.app?user=parth49patel&theme=swift&card_width=450)](https://git.io/streak-stats)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth49patel&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 ### 📫 Connect with me
