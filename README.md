@@ -31,5 +31,3 @@ I’m an iOS developer and passionate about creating innovative, high-quality ap
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/parth49patel)
 [![Email](https://img.shields.io/badge/Email-e5e5e5?style=for-the-badge&logo=gmail)](mailto:parth49patel@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/4parth9)
-
-[![](https://visitcount.itsvg.in/api?id=parth49patel&icon=0&color=0)](https://visitcount.itsvg.in)
