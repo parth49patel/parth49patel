@@ -1,6 +1,6 @@
 # 👋 Hi , I’m <b>Parth Patel</b>
-<b> IT Architecture Intern at Fidelity Canada</b>
-<b>📱 iOS Developer | SwiftUI Ethusiast</b>  
+<b>💻 IT Architecture Intern at Fidelity Canada</b>  
+<b>📱 iOS Developer | SwiftUI Ethusiast</b>    
 <b>🎓 3rd Year Software Engineering Student</b>  
 
 ### ✨About me
