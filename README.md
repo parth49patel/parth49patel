@@ -1,9 +1,10 @@
 # 👋 Hi , I’m <b>Parth Patel</b>
+<b> IT Architecture Intern at Fidelity Canada</b>
 <b>📱 iOS Developer | SwiftUI Ethusiast</b>  
 <b>🎓 3rd Year Software Engineering Student</b>  
-<b>🔍 Seeking co-op / internship opportunities</b>
 
 ### ✨About me
+I am currently working as an IT Architecture intern at Fidelity Canada, where I am contributing to technical and data architecture across rotations with Fidelity Clearing Canada ULC (January–June 2025) and Fidelity Investments Canada ULC (July–December 2025).
 I’m an iOS developer and passionate about creating innovative, high-quality apps using the SwiftUI framework. I’m continuously honing my skills in mobile development, backend integration, and database management. Through projects like Computer Science Trivia, Tasks, Authenticator, and Weather, I’ve built expertise in data persistence, user authentication, API integration, and interactive UI design. These projects have sharpened my ability to create engaging, efficient user experiences and handle complex data interactions.
 
 
