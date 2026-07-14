@@ -65,8 +65,9 @@ CGPA: 3.81 / 4.3 · President's Honours List (3 semesters) · Dean's Honours Lis
 
 ## 📊 GitHub Stats
 ![Parth's GitHub stats](https://github-stats-extended.vercel.app/api/?username=parth49patel&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=Parth's+Stats&card_width=500&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed)  
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=parth49patel&theme=tokyonight&layout=normal&langs_count=4&card_width=500&hide_border=false&disable_animations=false)   
-
+![Parth's GitHub Streak](https://github-readme-streak-stats-eosin.vercel.app?user=parth49patel&theme=tokyonight&card_width=500&disable_animations=false)  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=parth49patel&theme=catppuccin_mocha&layout=normal&langs_count=4&card_width=500&hide_border=false&disable_animations=false)       
+[![Parth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parth49patel&theme=tokyo-night)](https://github.com/parth49patel)  
 
 ---
 
