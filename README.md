@@ -1,41 +1,52 @@
-# 👋 Hi , I’m <b>Parth Patel</b>
-<b>💻 Software Developer Intern at Fidelity Canada</b>   
-<b>💻 Prev IT Architecture Intern at Fidelity Canada (2025)</b>  
-<b>📱 iOS Developer | SwiftUI Ethusiast</b>    
-<b>🎓 4th Year Software Engineering Student</b>  
+# 👋 Hi, I'm **Parth Patel**
+ 
+**💻 Software Developer Intern @ Fidelity Investments Canada**  
+**💻 Prev Technical Architect Intern @ Fidelity Canada (Jan 2025 – Dec 2025)**  
+**📱 iOS Developer | SwiftUI Enthusiast**  
+**🎓 4th Year Software Engineering Student @ Ontario Tech University**  
+
+---
 
 ## ✨About me
-I am currently in my fourth year of Software Engineering at Ontario Tech University. I recently completed a year-long co-op with Fidelity Canada, rotating between Fidelity Clearing Canada ULC and Fidelity Investments Canada ULC. During this experience, I worked with multiple teams across IT and data architecture, contributing to various internal projects and supporting enterprise systems and processes. This opportunity allowed me to gain hands-on experience in a professional enterprise environment while developing my technical, collaboration, and problem-solving skills.  
-
-I am currently a Software Developer Intern at Fidelity Investments Canada, focusing on backend development using Java Spring Boot. I contribute to the design and development of APIs, microservices, and enterprise backend systems.  
-
-Overall, these experiences have helped me build strong technical capabilities and a solid foundation for working in complex, real-world enterprise environments.  
+I'm a fourth-year Software Engineering student at Ontario Tech University (graduating April 2027, CGPA 3.81/4.3). I'm currently a Software Developer Intern at Fidelity Investments Canada, building backend services in Java and Spring Boot — focused on scalable REST APIs, role-based access control, and internal admin tooling for a production web application.
+ 
+Before this, I spent a year rotating as a Technical Architect Intern across Fidelity Clearing Canada ULC and Fidelity Investments Canada ULC, where I led Architecture Review Board submissions, maintained the enterprise Application Portfolio, and worked closely with data architecture and compliance teams.
+ 
+Outside of enterprise work, I'm an iOS developer who loves building privacy-first, on-device apps with SwiftUI and SwiftData, layering in CloudKit for sync, EventKit for calendar & reminders integration, and WidgetKit for home & lock screen widgets. I use App Intents and Siri Shortcuts to make apps feel native to the OS, StoreKit for monetization, and Apple's newer on-device frameworks — Vision for real-time OCR and Foundation Models for on-device language generation — to add smart features without compromising user privacy. I round things out with BackgroundTasks and UserNotifications for timely, reliable experiences, App Groups for sharing state between apps and widgets, XCTest to keep things stable, and Icon Composer for the finishing touches. I've shipped multiple apps to the App Store this way, and enjoy exploring how on-device AI can make apps smarter without ever touching a server.
 
 ---
 
 ## 💪 Skills
-
+ 
 ### 🧑‍💻 Programming Languages
-Swift, Java, C++, Python, JavaScript, HTML, CSS
-
-### 📱 iOS Development (Frameworks and APIs)
-SwiftUI, CloudKit, EventKit, WidgetKit, Foundation Models, Vision, StoreKit, XCTest, SwiftData, Foundation, Vision, BackgroundTasks, UserNotifications, App Groups
-
+Swift, Java, C++, Python, JavaScript
+ 
+### 📱 iOS Development (Frameworks & APIs)
+SwiftUI, SwiftData, CloudKit, WidgetKit, EventKit, SpriteKit, StoreKit, Foundation Models, Vision, App Intents, Siri Shortcuts, XCTest, BackgroundTasks, UserNotifications, App Groups, Icon Composer, Network
+ 
 ### 🏗 Architecture & Design
-MVVM (Model-View-ViewModel), Object-Oriented Design, Modular Architecture
-
+MVVM (Model-View-ViewModel), Object-Oriented Design, Modular Architecture, Microservices Architecture
+ 
+### 💻 Backend & Web Development
+Java, Spring Boot, REST APIs, Flask, React, Tailwind CSS, HTML, CSS, Backend service integration, Debugging enterprise systems
+ 
 ### 🗄 Databases & Persistence
-SwiftData, Firebase Firestore
-
-### 💻 Backend Development
-Java, Spring Boot, REST APIs, Microservices Architecture, Backend service integration, Debugging enterprise systems
-
+SwiftData, Firebase Firestore, MySQL, Snowflake
+ 
+### ☁️ Cloud, DevOps & CI/CD
+Docker, Kubernetes, Terraform, Jenkins, Git/GitHub, CI/CD fundamentals
+ 
 ### 🛠 Tools & Platforms
-Xcode, Icon Composer, Git / GitHub, VS Code, Jira, Confluence, Figma, Docker, Kubernetes, Terraform, Snowflake, LeanIX, MATLAB, Multisim, SolidWorks
+Xcode, VS Code, Jira, Confluence, Figma, LeanIX, MATLAB, Multisim, SolidWorks
 
-### ⌨️ Other Skills
-Command-line usage (Linux/macOS), Version control (Git workflows), Basic CI/CD understanding
+---
 
+## 🎓 Education
+ 
+**Bachelor of Software Engineering**  
+Ontario Tech University · Graduating April 2027  
+CGPA: 3.81 / 4.3 · President's Honours List (3 semesters) · Dean's Honours List (2 semesters)
+ 
 ---
 
 ## 📜 Certificates
@@ -52,16 +63,16 @@ Command-line usage (Linux/macOS), Version control (Git workflows), Basic CI/CD u
 
 --- 
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=parth49patel&theme=swift&hide_border=false&include_all_commits=false&count_private=false"><br/>
-[![GitHub Streak](https://github-readme-streak-stats-eosin.vercel.app?user=parth49patel&theme=swift&card_width=450)](https://git.io/streak-stats)<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth49patel&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+## 📊 GitHub Stats
+![Parth's GitHub stats](https://github-stats-extended.vercel.app/api/?username=parth49patel&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true&custom_title=Parth's+Stats&card_width=500&disable_animations=false&number_format=long&show=prs_merged_percentage,prs_reviewed)  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=parth49patel&theme=tokyonight&layout=normal&langs_count=4&card_width=500&hide_border=false&disable_animations=false)   
+
 
 ---
 
 ## 📫 Connect with me
 [![AppStore](https://img.shields.io/badge/AppStore-blue?style=for-the-badge&logo=appstore&logoColor=white&color=blue)](https://apps.apple.com/ca/app/bat-stats/id6751081311) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/parth49)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth49)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/parth49patel)
 [![Email](https://img.shields.io/badge/Email-e5e5e5?style=for-the-badge&logo=gmail)](mailto:parth49patel@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/4parth9)
